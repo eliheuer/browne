@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="TahSmallAltNS" format="2">
+	<advance width="0"/>
+	<note>
+		TahSmallAltNS
+  </note>
+	<outline>
+		<component base="TahSmallNS"/>
+	</outline>
+</glyph>

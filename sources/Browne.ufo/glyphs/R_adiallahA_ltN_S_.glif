@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="RadiallahAltNS" format="2">
+	<advance width="0"/>
+	<note>
+		RadiallahAltNS
+  </note>
+	<outline>
+		<component base="RadiallahNS"/>
+	</outline>
+</glyph>

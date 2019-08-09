@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="WavyHamzaBelowAltNS" format="2">
+	<advance width="0"/>
+	<note>
+		WavyHamzaBelowAltNS
+  </note>
+	<outline>
+		<component base="WavyHamzaBelowNS"/>
+	</outline>
+</glyph>

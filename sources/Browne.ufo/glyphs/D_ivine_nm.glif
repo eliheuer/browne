@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Divine_nm" format="2">
+	<advance width="1116"/>
+	<unicode hex="FDF2"/>
+	<note>
+		Divine_nm
+  </note>
+	<outline>
+		<component base="Divine_nm_p1"/>
+		<component base="AlefSep" xOffset="791"/>
+		<component base="ShaddaNS" xOffset="522" yOffset="-259"/>
+		<component base="AlefSuperiorNS" xOffset="520" yOffset="-64"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

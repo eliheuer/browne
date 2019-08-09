@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SeenIni.outD2YB" format="2">
+	<advance width="984"/>
+	<note>
+		SeenIni.outD2YB
+  </note>
+	<outline>
+		<contour>
+			<point x="366" y="165" type="qcurve" smooth="yes"/>
+			<point x="341" y="165"/>
+			<point x="319" y="176" type="qcurve"/>
+			<point x="310" y="173" type="line"/>
+			<point x="283" y="127"/>
+			<point x="245" y="93"/>
+			<point x="216" y="93" type="qcurve" smooth="yes"/>
+			<point x="186" y="93"/>
+			<point x="160" y="109" type="qcurve" smooth="yes"/>
+			<point x="155" y="112"/>
+			<point x="127" y="129"/>
+			<point x="118" y="129" type="qcurve" smooth="yes"/>
+			<point x="104" y="129"/>
+			<point x="83" y="112"/>
+			<point x="48" y="60" type="qcurve" smooth="yes"/>
+			<point x="32" y="35"/>
+			<point x="0" y="0" type="qcurve"/>
+			<point x="-16" y="-20"/>
+			<point x="-16" y="-32" type="qcurve" smooth="yes"/>
+			<point x="-16" y="-46"/>
+			<point x="0" y="-47" type="qcurve" smooth="yes"/>
+			<point x="21" y="-47"/>
+			<point x="40" y="-14" type="qcurve" smooth="yes"/>
+			<point x="62" y="25"/>
+			<point x="78" y="25" type="qcurve" smooth="yes"/>
+			<point x="86" y="25"/>
+			<point x="111" y="10" type="qcurve" smooth="yes"/>
+			<point x="148" y="-13"/>
+			<point x="183" y="-13" type="qcurve" smooth="yes"/>
+			<point x="237" y="-13"/>
+			<point x="281" y="60" type="qcurve"/>
+			<point x="300" y="55"/>
+			<point x="316" y="55" type="qcurve" smooth="yes"/>
+			<point x="422" y="56"/>
+			<point x="465" y="245" type="qcurve"/>
+			<point x="436" y="251" type="line"/>
+			<point x="421" y="202"/>
+			<point x="387" y="165"/>
+		</contour>
+		<contour>
+			<point x="263" y="481" type="line"/>
+			<point x="263" y="481" type="line"/>
+		</contour>
+		<contour>
+			<point x="312" y="-669" type="line"/>
+			<point x="312" y="-669" type="line"/>
+		</contour>
+		<contour>
+			<point x="523" y="0" type="line"/>
+			<point x="523" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

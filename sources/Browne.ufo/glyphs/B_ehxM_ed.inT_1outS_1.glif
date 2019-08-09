@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="BehxMed.inT1outS1" format="2">
+	<advance width="250"/>
+	<note>
+		BehxMed.inT1outS1
+  </note>
+	<outline>
+		<contour>
+			<point x="170" y="138" type="qcurve" smooth="yes"/>
+			<point x="176" y="149"/>
+			<point x="180" y="161" type="qcurve"/>
+			<point x="185" y="151"/>
+			<point x="191" y="144" type="qcurve" smooth="yes"/>
+			<point x="213" y="119"/>
+			<point x="250" y="119" type="qcurve" smooth="yes"/>
+			<point x="289" y="119"/>
+			<point x="344" y="172"/>
+			<point x="344" y="220" type="qcurve" smooth="yes"/>
+			<point x="343" y="277"/>
+			<point x="300" y="277" type="qcurve" smooth="yes"/>
+			<point x="235" y="279"/>
+			<point x="235" y="359" type="qcurve" smooth="yes"/>
+			<point x="235" y="379"/>
+			<point x="241" y="405" type="qcurve"/>
+			<point x="220" y="410" type="line"/>
+			<point x="169" y="305"/>
+			<point x="168" y="222" type="qcurve"/>
+			<point x="155" y="159"/>
+			<point x="86" y="158" type="qcurve" smooth="yes"/>
+			<point x="36" y="158"/>
+			<point x="-33" y="81"/>
+			<point x="-33" y="32" type="qcurve" smooth="yes"/>
+			<point x="-33" y="0"/>
+			<point x="0" y="0" type="qcurve" smooth="yes"/>
+			<point x="42" y="0"/>
+			<point x="102" y="29"/>
+			<point x="150" y="91"/>
+		</contour>
+		<contour>
+			<point x="189" y="629" type="line"/>
+			<point x="189" y="629" type="line"/>
+		</contour>
+		<contour>
+			<point x="189" y="802" type="line"/>
+			<point x="189" y="802" type="line"/>
+		</contour>
+		<contour>
+			<point x="246" y="-233" type="line"/>
+			<point x="246" y="-233" type="line"/>
+		</contour>
+		<contour>
+			<point x="258" y="-409" type="line"/>
+			<point x="258" y="-409" type="line"/>
+		</contour>
+		<contour>
+			<point x="200" y="82" type="line"/>
+			<point x="200" y="82" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

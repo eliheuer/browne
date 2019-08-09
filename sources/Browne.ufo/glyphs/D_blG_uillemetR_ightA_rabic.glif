@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="DblGuillemetRightArabic" format="2">
+	<advance width="481"/>
+	<unicode hex="00BB"/>
+	<note>
+		DblGuillemetRightArabic
+  </note>
+	<outline>
+		<contour>
+			<point x="122" y="516" type="qcurve"/>
+			<point x="113" y="514" type="line"/>
+			<point x="107" y="505"/>
+			<point x="87" y="446"/>
+			<point x="84" y="433" type="qcurve"/>
+			<point x="123" y="402"/>
+			<point x="158" y="324"/>
+			<point x="158" y="266" type="qcurve" smooth="yes"/>
+			<point x="158" y="223"/>
+			<point x="122" y="120"/>
+			<point x="89" y="73" type="qcurve"/>
+			<point x="105" y="60" type="line"/>
+			<point x="161" y="121"/>
+			<point x="221" y="262"/>
+			<point x="221" y="331" type="qcurve" smooth="yes"/>
+			<point x="221" y="452"/>
+		</contour>
+		<contour>
+			<point x="301" y="549" type="qcurve"/>
+			<point x="292" y="547" type="line"/>
+			<point x="289" y="545"/>
+			<point x="262" y="476"/>
+			<point x="260" y="467" type="qcurve"/>
+			<point x="334" y="396"/>
+			<point x="334" y="279" type="qcurve" smooth="yes"/>
+			<point x="334" y="232"/>
+			<point x="297" y="121"/>
+			<point x="265" y="77" type="qcurve"/>
+			<point x="281" y="63" type="line"/>
+			<point x="336" y="121"/>
+			<point x="396" y="274"/>
+			<point x="396" y="343" type="qcurve" smooth="yes"/>
+			<point x="396" y="408"/>
+			<point x="349" y="516"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

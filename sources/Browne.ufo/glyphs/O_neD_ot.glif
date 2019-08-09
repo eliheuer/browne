@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="OneDot" format="2">
+	<advance width="0"/>
+	<note>
+		OneDot
+  </note>
+	<outline>
+		<contour>
+			<point x="73" y="93" type="qcurve"/>
+			<point x="73" y="84" type="line"/>
+			<point x="117" y="47" type="line"/>
+			<point x="139" y="26" type="line"/>
+			<point x="156" y="10" type="line"/>
+			<point x="165" y="10" type="line"/>
+			<point x="208" y="41"/>
+			<point x="247" y="88"/>
+			<point x="247" y="104" type="qcurve" smooth="yes"/>
+			<point x="247" y="125"/>
+			<point x="208" y="165"/>
+			<point x="169" y="189" type="qcurve"/>
+			<point x="160" y="189" type="line"/>
+			<point x="150" y="183"/>
+			<point x="86" y="113"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

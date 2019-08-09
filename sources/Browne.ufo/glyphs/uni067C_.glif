@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni067C" format="2">
+	<advance width="1175"/>
+	<unicode hex="067C"/>
+	<note>
+		uni067C
+  </note>
+	<outline>
+		<component base="BehxSep"/>
+		<component base="TwoDotsAboveNS" xOffset="597" yOffset="-318"/>
+		<component base="RingNS" xOffset="630" yOffset="-557"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

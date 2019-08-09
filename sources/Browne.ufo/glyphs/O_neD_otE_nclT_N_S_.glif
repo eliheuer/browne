@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="OneDotEnclTNS" format="2">
+	<advance width="0"/>
+	<note>
+		OneDotEnclTNS
+  </note>
+	<outline>
+		<component base="OneDotEnclNS"/>
+	</outline>
+</glyph>

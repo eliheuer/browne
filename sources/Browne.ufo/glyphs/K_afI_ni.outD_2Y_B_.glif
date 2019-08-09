@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="KafIni.outD2YB" format="2">
+	<advance width="984"/>
+	<note>
+		KafIni.outD2YB
+  </note>
+	<outline>
+		<component base="KafIni.outD2"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

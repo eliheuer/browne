@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="HahMed.inD2" format="2">
+	<advance width="156"/>
+	<note>
+		HahMed.inD2
+  </note>
+	<outline>
+		<component base="HahMed.inD2outS1"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

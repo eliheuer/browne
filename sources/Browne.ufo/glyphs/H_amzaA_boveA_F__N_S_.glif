@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="HamzaAboveAF_NS" format="2">
+	<advance width="0"/>
+	<note>
+		HamzaAboveAF_NS
+  </note>
+	<outline>
+		<contour>
+			<point x="0" y="1136" type="line"/>
+			<point x="0" y="1136" type="line"/>
+		</contour>
+		<contour>
+			<point x="0" y="917" type="line"/>
+			<point x="0" y="917" type="line"/>
+		</contour>
+		<contour>
+			<point x="133" y="979" type="qcurve"/>
+			<point x="124" y="984" type="line"/>
+			<point x="107" y="968"/>
+			<point x="63" y="942"/>
+			<point x="46" y="942" type="qcurve" smooth="yes"/>
+			<point x="18" y="942"/>
+			<point x="-16" y="966"/>
+			<point x="-16" y="983" type="qcurve" smooth="yes"/>
+			<point x="-16" y="1001"/>
+			<point x="18" y="1024"/>
+			<point x="36" y="1024" type="qcurve" smooth="yes"/>
+			<point x="56" y="1024"/>
+			<point x="70" y="1010" type="qcurve"/>
+			<point x="75" y="1010" type="line"/>
+			<point x="81" y="1013"/>
+			<point x="90" y="1027"/>
+			<point x="90" y="1037" type="qcurve" smooth="yes"/>
+			<point x="90" y="1051"/>
+			<point x="68" y="1065"/>
+			<point x="54" y="1065" type="qcurve" smooth="yes"/>
+			<point x="18" y="1065"/>
+			<point x="-70" y="978"/>
+			<point x="-70" y="940" type="qcurve" smooth="yes"/>
+			<point x="-70" y="920"/>
+			<point x="-51" y="903"/>
+			<point x="-47" y="896" type="qcurve"/>
+			<point x="-48" y="893" type="line"/>
+			<point x="-62" y="885"/>
+			<point x="-96" y="848"/>
+			<point x="-103" y="824" type="qcurve"/>
+			<point x="-96" y="817" type="line"/>
+			<point x="-52" y="849"/>
+			<point x="70" y="904"/>
+			<point x="119" y="938"/>
+		</contour>
+		<contour>
+			<point x="0" y="747" type="line"/>
+			<point x="0" y="747" type="line"/>
+		</contour>
+		<contour>
+			<point x="0" y="970" type="line"/>
+			<point x="0" y="970" type="line"/>
+		</contour>
+		<contour>
+			<point x="0" y="835" type="line"/>
+			<point x="0" y="835" type="line"/>
+		</contour>
+		<contour>
+			<point x="0" y="1099" type="line"/>
+			<point x="0" y="1099" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

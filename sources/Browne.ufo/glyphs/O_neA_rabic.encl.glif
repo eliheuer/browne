@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="OneArabic.encl" format="2">
+	<advance width="0"/>
+	<note>
+		OneArabic.encl
+  </note>
+	<outline>
+		<contour>
+			<point x="-14" y="-2" type="qcurve"/>
+			<point x="2" y="-5" type="line"/>
+			<point x="14" y="20"/>
+			<point x="24" y="71"/>
+			<point x="24" y="143" type="qcurve" smooth="yes"/>
+			<point x="24" y="160"/>
+			<point x="22" y="208"/>
+			<point x="20" y="230" type="qcurve" smooth="yes"/>
+			<point x="14" y="272" type="line" smooth="yes"/>
+			<point x="11" y="292"/>
+			<point x="9" y="299" type="qcurve"/>
+			<point x="-3" y="300" type="line"/>
+			<point x="-9" y="288"/>
+			<point x="-15" y="270" type="qcurve" smooth="yes"/>
+			<point x="-27" y="237" type="line"/>
+			<point x="-21" y="192" type="line" smooth="yes"/>
+			<point x="-18" y="168"/>
+			<point x="-11" y="99"/>
+			<point x="-11" y="54" type="qcurve" smooth="yes"/>
+			<point x="-11" y="34"/>
+			<point x="-14" y="4"/>
+		</contour>
+		<contour>
+			<point x="0" y="9" type="line"/>
+			<point x="0" y="9" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

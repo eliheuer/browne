@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AlefWavyHamzaAbove" format="2">
+	<advance width="330"/>
+	<unicode hex="0672"/>
+	<note>
+		AlefWavyHamzaAbove
+  </note>
+	<outline>
+		<component base="AlefSep"/>
+		<component base="WavyHamzaBelowNS" xOffset="212" yOffset="1372"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

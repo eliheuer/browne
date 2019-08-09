@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFBBF" format="2">
+	<advance width="211"/>
+	<unicode hex="FBBF"/>
+	<note>
+		uniFBBF
+  </note>
+	<outline>
+		<component base="RingNS" xOffset="107"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

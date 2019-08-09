@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="FehxMed.inT3outD11" format="2">
+	<advance width="534"/>
+	<note>
+		FehxMed.inT3outD11
+  </note>
+	<outline>
+		<contour>
+			<point x="563" y="250" type="qcurve" smooth="yes"/>
+			<point x="559" y="250" type="line"/>
+			<point x="594" y="308"/>
+			<point x="594" y="376" type="qcurve" smooth="yes"/>
+			<point x="594" y="426"/>
+			<point x="540" y="492"/>
+			<point x="495" y="492" type="qcurve" smooth="yes"/>
+			<point x="451" y="492"/>
+			<point x="379" y="429"/>
+			<point x="336" y="328"/>
+			<point x="336" y="282" type="qcurve" smooth="yes"/>
+			<point x="336" y="225"/>
+			<point x="377" y="194" type="qcurve" smooth="yes"/>
+			<point x="384" y="189" type="line"/>
+			<point x="321" y="147"/>
+			<point x="229" y="113" type="qcurve" smooth="yes"/>
+			<point x="96" y="63"/>
+			<point x="12" y="63" type="qcurve" smooth="yes"/>
+			<point x="-4" y="63"/>
+			<point x="-26" y="36"/>
+			<point x="-26" y="22" type="qcurve" smooth="yes"/>
+			<point x="-26" y="4"/>
+			<point x="11" y="-2"/>
+			<point x="38" y="-2" type="qcurve" smooth="yes"/>
+			<point x="127" y="-2"/>
+			<point x="245" y="46" type="qcurve" smooth="yes"/>
+			<point x="355" y="92"/>
+			<point x="455" y="166" type="qcurve"/>
+			<point x="473" y="164"/>
+			<point x="493" y="164" type="qcurve" smooth="yes"/>
+			<point x="508" y="164"/>
+			<point x="540" y="165"/>
+			<point x="555" y="166" type="qcurve" smooth="yes"/>
+			<point x="584" y="169"/>
+			<point x="584" y="219" type="qcurve" smooth="yes"/>
+			<point x="584" y="233"/>
+			<point x="572" y="250"/>
+		</contour>
+		<contour>
+			<point x="538" y="317" type="qcurve" smooth="yes"/>
+			<point x="538" y="282"/>
+			<point x="481" y="250" type="qcurve"/>
+			<point x="439" y="250"/>
+			<point x="386" y="288"/>
+			<point x="386" y="321" type="qcurve" smooth="yes"/>
+			<point x="386" y="349"/>
+			<point x="438" y="388"/>
+			<point x="468" y="388" type="qcurve" smooth="yes"/>
+			<point x="499" y="388"/>
+			<point x="538" y="345"/>
+		</contour>
+		<contour>
+			<point x="464" y="681" type="line"/>
+			<point x="464" y="681" type="line"/>
+		</contour>
+		<contour>
+			<point x="455" y="-166" type="line"/>
+			<point x="455" y="-166" type="line"/>
+		</contour>
+		<contour>
+			<point x="534" y="165" type="line"/>
+			<point x="534" y="165" type="line"/>
+		</contour>
+		<contour>
+			<point x="0" y="0" type="line"/>
+			<point x="0" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

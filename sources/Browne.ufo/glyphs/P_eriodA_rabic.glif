@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="PeriodArabic" format="2">
+	<advance width="258"/>
+	<unicode hex="002E"/>
+	<note>
+		PeriodArabic
+  </note>
+	<outline>
+		<component base="OneDot" xOffset="-31" yOffset="10"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

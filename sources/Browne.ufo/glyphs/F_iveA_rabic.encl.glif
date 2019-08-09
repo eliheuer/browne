@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="FiveArabic.encl" format="2">
+	<advance width="0"/>
+	<note>
+		FiveArabic.encl
+  </note>
+	<outline>
+		<contour>
+			<point x="94" y="143" type="qcurve" smooth="yes"/>
+			<point x="94" y="194"/>
+			<point x="43" y="266"/>
+			<point x="11" y="266" type="qcurve" smooth="yes"/>
+			<point x="-28" y="266"/>
+			<point x="-93" y="128"/>
+			<point x="-93" y="78" type="qcurve" smooth="yes"/>
+			<point x="-93" y="45"/>
+			<point x="-53" y="6"/>
+			<point x="-17" y="6" type="qcurve" smooth="yes"/>
+			<point x="41" y="6"/>
+			<point x="94" y="76"/>
+		</contour>
+		<contour>
+			<point x="-2" y="200" type="qcurve" smooth="yes"/>
+			<point x="19" y="200"/>
+			<point x="63" y="137"/>
+			<point x="63" y="112" type="qcurve" smooth="yes"/>
+			<point x="63" y="91"/>
+			<point x="25" y="73"/>
+			<point x="-4" y="73" type="qcurve" smooth="yes"/>
+			<point x="-30" y="73"/>
+			<point x="-57" y="91"/>
+			<point x="-57" y="111" type="qcurve" smooth="yes"/>
+			<point x="-57" y="130"/>
+			<point x="-24" y="200"/>
+		</contour>
+		<contour>
+			<point x="0" y="9" type="line"/>
+			<point x="0" y="9" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

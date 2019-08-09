@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="HahSep" format="2">
+	<advance width="871"/>
+	<note>
+		HahSep
+  </note>
+	<outline>
+		<contour>
+			<point x="28" y="-30" type="qcurve" smooth="yes"/>
+			<point x="28" y="-171"/>
+			<point x="194" y="-341"/>
+			<point x="337" y="-341" type="qcurve" smooth="yes"/>
+			<point x="498" y="-341"/>
+			<point x="763" y="-107"/>
+			<point x="850" y="112" type="qcurve"/>
+			<point x="819" y="121" type="line"/>
+			<point x="749" y="-24"/>
+			<point x="550" y="-163"/>
+			<point x="417" y="-163" type="qcurve" smooth="yes"/>
+			<point x="284" y="-163"/>
+			<point x="124" y="-28"/>
+			<point x="124" y="87" type="qcurve" smooth="yes"/>
+			<point x="124" y="214"/>
+			<point x="330" y="475"/>
+			<point x="499" y="582" type="qcurve"/>
+			<point x="554" y="614"/>
+			<point x="584" y="677" type="qcurve"/>
+			<point x="583" y="684" type="line"/>
+			<point x="554" y="698"/>
+			<point x="403" y="720"/>
+			<point x="353" y="720" type="qcurve" smooth="yes"/>
+			<point x="289" y="720"/>
+			<point x="222" y="691"/>
+			<point x="172" y="624"/>
+			<point x="154" y="568" type="qcurve"/>
+			<point x="179" y="560" type="line"/>
+			<point x="189" y="579"/>
+			<point x="215" y="603"/>
+			<point x="248" y="613"/>
+			<point x="288" y="613" type="qcurve" smooth="yes"/>
+			<point x="327" y="613"/>
+			<point x="443" y="604"/>
+			<point x="446" y="599" type="qcurve"/>
+			<point x="242" y="467"/>
+			<point x="28" y="144"/>
+		</contour>
+		<contour>
+			<point x="422" y="1019" type="line"/>
+			<point x="422" y="1019" type="line"/>
+		</contour>
+		<contour>
+			<point x="367" y="-576" type="line"/>
+			<point x="367" y="-576" type="line"/>
+		</contour>
+		<contour>
+			<point x="449" y="218" type="line"/>
+			<point x="449" y="218" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

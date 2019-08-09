@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Beh" format="2">
+	<advance width="1175"/>
+	<unicode hex="0628"/>
+	<note>
+		Beh
+  </note>
+	<outline>
+		<component base="BehxSep"/>
+		<component base="OneDotBelowNS" xOffset="577" yOffset="-157"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

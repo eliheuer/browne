@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="HahIni.outD1" format="2">
+	<advance width="875"/>
+	<note>
+		HahIni.outD1
+  </note>
+	<outline>
+		<contour>
+			<point x="556" y="517" type="qcurve" smooth="yes"/>
+			<point x="511" y="517"/>
+			<point x="437" y="463"/>
+			<point x="402" y="397" type="qcurve"/>
+			<point x="428" y="389" type="line"/>
+			<point x="446" y="425"/>
+			<point x="498" y="425" type="qcurve" smooth="yes"/>
+			<point x="513" y="425"/>
+			<point x="547" y="419"/>
+			<point x="626" y="389" type="qcurve" smooth="yes"/>
+			<point x="664" y="375"/>
+			<point x="688" y="367" type="qcurve"/>
+			<point x="635" y="328"/>
+			<point x="582" y="287" type="qcurve" smooth="yes"/>
+			<point x="492" y="218"/>
+			<point x="446" y="187" type="qcurve"/>
+			<point x="443" y="184"/>
+			<point x="336" y="120"/>
+			<point x="230" y="83" type="qcurve" smooth="yes"/>
+			<point x="112" y="45"/>
+			<point x="-6" y="45" type="qcurve" smooth="yes"/>
+			<point x="-26" y="45"/>
+			<point x="-39" y="33"/>
+			<point x="-39" y="23" type="qcurve" smooth="yes"/>
+			<point x="-39" y="0"/>
+			<point x="0" y="0" type="qcurve" smooth="yes"/>
+			<point x="249" y="0"/>
+			<point x="469" y="145" type="qcurve" smooth="yes"/>
+			<point x="546" y="198"/>
+			<point x="575" y="221" type="qcurve" smooth="yes"/>
+			<point x="625" y="260"/>
+			<point x="723" y="336"/>
+			<point x="772" y="376" type="qcurve" smooth="yes"/>
+			<point x="785" y="386"/>
+			<point x="806" y="403"/>
+			<point x="817" y="414" type="qcurve"/>
+			<point x="815" y="426" type="line"/>
+			<point x="786" y="431"/>
+			<point x="722" y="461" type="qcurve" smooth="yes"/>
+			<point x="687" y="479"/>
+			<point x="588" y="517"/>
+		</contour>
+		<contour>
+			<point x="630" y="837" type="line"/>
+			<point x="630" y="837" type="line"/>
+		</contour>
+		<contour>
+			<point x="613" y="-42" type="line"/>
+			<point x="613" y="-42" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

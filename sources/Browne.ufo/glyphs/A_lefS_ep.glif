@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AlefSep" format="2">
+	<advance width="330"/>
+	<note>
+		AlefSep
+  </note>
+	<outline>
+		<contour>
+			<point x="101" y="106" type="qcurve"/>
+			<point x="123" y="101" type="line"/>
+			<point x="186" y="248"/>
+			<point x="192" y="377" type="qcurve" smooth="yes"/>
+			<point x="208" y="659" type="line" smooth="yes"/>
+			<point x="216" y="821"/>
+			<point x="233" y="861" type="qcurve"/>
+			<point x="212" y="869" type="line"/>
+			<point x="177" y="791"/>
+			<point x="143" y="693"/>
+			<point x="132" y="621"/>
+			<point x="128" y="544" type="qcurve" smooth="yes"/>
+			<point x="119" y="295" type="line" smooth="yes"/>
+			<point x="111" y="150"/>
+		</contour>
+		<contour>
+			<point x="211" y="1103" type="line"/>
+			<point x="211" y="1103" type="line"/>
+		</contour>
+		<contour>
+			<point x="212" y="998" type="line"/>
+			<point x="212" y="998" type="line"/>
+		</contour>
+		<contour>
+			<point x="103" y="-58" type="line"/>
+			<point x="103" y="-58" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

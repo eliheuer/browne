@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SeenIni.outD2Y" format="2">
+	<advance width="646"/>
+	<note>
+		SeenIni.outD2Y
+  </note>
+	<outline>
+		<contour>
+			<point x="117" y="59" type="qcurve" smooth="yes"/>
+			<point x="165" y="87"/>
+			<point x="208" y="87" type="qcurve" smooth="yes"/>
+			<point x="228" y="87"/>
+			<point x="247" y="70" type="qcurve"/>
+			<point x="266" y="52"/>
+			<point x="301" y="52" type="qcurve" smooth="yes"/>
+			<point x="349" y="52"/>
+			<point x="391" y="117" type="qcurve"/>
+			<point x="414" y="97"/>
+			<point x="440" y="97" type="qcurve" smooth="yes"/>
+			<point x="542" y="97"/>
+			<point x="588" y="282" type="qcurve"/>
+			<point x="560" y="287" type="line"/>
+			<point x="545" y="242"/>
+			<point x="511" y="207"/>
+			<point x="482" y="207" type="qcurve" smooth="yes"/>
+			<point x="458" y="207"/>
+			<point x="436" y="225" type="qcurve"/>
+			<point x="424" y="224" type="line"/>
+			<point x="382" y="158"/>
+			<point x="332" y="158" type="qcurve" smooth="yes"/>
+			<point x="320" y="158"/>
+			<point x="302" y="168"/>
+			<point x="291" y="177" type="qcurve" smooth="yes"/>
+			<point x="270" y="193"/>
+			<point x="241" y="193" type="qcurve" smooth="yes"/>
+			<point x="184" y="193"/>
+			<point x="84" y="129"/>
+			<point x="39" y="63" type="qcurve" smooth="yes"/>
+			<point x="18" y="31"/>
+			<point x="7" y="12" type="qcurve" smooth="yes"/>
+			<point x="-6" y="-9"/>
+			<point x="-6" y="-20" type="qcurve" smooth="yes"/>
+			<point x="-5" y="-35"/>
+			<point x="17" y="-37" type="qcurve"/>
+			<point x="31" y="-37"/>
+			<point x="44" y="-16" type="qcurve" smooth="yes"/>
+			<point x="72" y="32"/>
+		</contour>
+		<contour>
+			<point x="388" y="538" type="line"/>
+			<point x="388" y="538" type="line"/>
+		</contour>
+		<contour>
+			<point x="402" y="-204" type="line"/>
+			<point x="402" y="-204" type="line"/>
+		</contour>
+		<contour>
+			<point x="0" y="0" type="line"/>
+			<point x="0" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="HehMed.inD5outD2Y" format="2">
+	<advance width="407"/>
+	<note>
+		HehMed.inD5outD2Y
+  </note>
+	<outline>
+		<contour>
+			<point x="122" y="49" type="qcurve" smooth="yes"/>
+			<point x="175" y="73"/>
+			<point x="233" y="74" type="qcurve" smooth="yes"/>
+			<point x="271" y="74"/>
+			<point x="319" y="32"/>
+			<point x="319" y="-7" type="qcurve" smooth="yes"/>
+			<point x="319" y="-41"/>
+			<point x="306" y="-104" type="qcurve"/>
+			<point x="336" y="-110" type="line"/>
+			<point x="366" y="-21"/>
+			<point x="407" y="43" type="qcurve"/>
+			<point x="411" y="48"/>
+			<point x="411" y="56" type="qcurve" smooth="yes"/>
+			<point x="411" y="68"/>
+			<point x="395" y="72" type="qcurve"/>
+			<point x="394" y="122"/>
+			<point x="323" y="179"/>
+			<point x="267" y="180" type="qcurve" smooth="yes"/>
+			<point x="203" y="180"/>
+			<point x="86" y="118"/>
+			<point x="-6" y="0"/>
+			<point x="-6" y="-20" type="qcurve" smooth="yes"/>
+			<point x="-5" y="-35"/>
+			<point x="17" y="-37" type="qcurve"/>
+			<point x="31" y="-37"/>
+			<point x="44" y="-16" type="qcurve" smooth="yes"/>
+			<point x="69" y="26"/>
+		</contour>
+		<contour>
+			<point x="299" y="573" type="line"/>
+			<point x="299" y="573" type="line"/>
+		</contour>
+		<contour>
+			<point x="191" y="525" type="line"/>
+			<point x="191" y="525" type="line"/>
+		</contour>
+		<contour>
+			<point x="263" y="-675" type="line"/>
+			<point x="263" y="-675" type="line"/>
+		</contour>
+		<contour>
+			<point x="0" y="0" type="line"/>
+			<point x="0" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="286" y="-203" type="line"/>
+			<point x="286" y="-203" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

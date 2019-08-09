@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dad" format="2">
+	<advance width="1241"/>
+	<unicode hex="0636"/>
+	<note>
+		Dad
+  </note>
+	<outline>
+		<component base="SadSep"/>
+		<component base="OneDotAboveNS" xOffset="955" yOffset="-48"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tah2DotsBelowYB" format="2">
+	<advance width="0"/>
+	<note>
+		Tah2DotsBelowYB
+  </note>
+	<outline>
+		<component base="Tah2DotsBelowNS"/>
+	</outline>
+</glyph>

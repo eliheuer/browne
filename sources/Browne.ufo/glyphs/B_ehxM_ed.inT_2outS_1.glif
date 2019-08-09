@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="BehxMed.inT2outS1" format="2">
+	<advance width="292"/>
+	<note>
+		BehxMed.inT2outS1
+  </note>
+	<outline>
+		<contour>
+			<point x="325" y="250" type="qcurve" smooth="yes"/>
+			<point x="303" y="250"/>
+			<point x="283" y="260" type="qcurve"/>
+			<point x="260" y="270"/>
+			<point x="247" y="270" type="qcurve" smooth="yes"/>
+			<point x="222" y="270"/>
+			<point x="206" y="244" type="qcurve" smooth="yes"/>
+			<point x="169" y="191"/>
+			<point x="125" y="158"/>
+			<point x="85" y="158" type="qcurve" smooth="yes"/>
+			<point x="35" y="156"/>
+			<point x="-33" y="79"/>
+			<point x="-33" y="32" type="qcurve" smooth="yes"/>
+			<point x="-33" y="1"/>
+			<point x="0" y="0" type="qcurve" smooth="yes"/>
+			<point x="38" y="0"/>
+			<point x="86" y="23"/>
+			<point x="138" y="70"/>
+			<point x="187" y="143" type="qcurve" smooth="yes"/>
+			<point x="196" y="157"/>
+			<point x="206" y="167"/>
+			<point x="213" y="167" type="qcurve" smooth="yes"/>
+			<point x="222" y="167"/>
+			<point x="243" y="156" type="qcurve" smooth="yes"/>
+			<point x="265" y="143"/>
+			<point x="292" y="143" type="qcurve" smooth="yes"/>
+			<point x="315" y="143"/>
+			<point x="354" y="181"/>
+			<point x="354" y="211" type="qcurve" smooth="yes"/>
+			<point x="354" y="228"/>
+			<point x="336" y="250"/>
+		</contour>
+		<contour>
+			<point x="178" y="534" type="line"/>
+			<point x="178" y="534" type="line"/>
+		</contour>
+		<contour>
+			<point x="244" y="-196" type="line"/>
+			<point x="244" y="-196" type="line"/>
+		</contour>
+		<contour>
+			<point x="244" y="-125" type="line"/>
+			<point x="244" y="-125" type="line"/>
+		</contour>
+		<contour>
+			<point x="90" y="534" type="line"/>
+			<point x="90" y="534" type="line"/>
+		</contour>
+		<contour>
+			<point x="222" y="120" type="line"/>
+			<point x="222" y="120" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

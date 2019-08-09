@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="FathaAltNS" format="2">
+	<advance width="0"/>
+	<note>
+		FathaAltNS
+  </note>
+	<outline>
+		<component base="FathaNS"/>
+	</outline>
+</glyph>

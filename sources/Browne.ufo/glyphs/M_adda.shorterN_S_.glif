@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Madda.shorterNS" format="2">
+	<advance width="0"/>
+	<note>
+		Madda.shorterNS
+  </note>
+	<outline>
+		<contour>
+			<point x="-172" y="892" type="qcurve"/>
+			<point x="-152" y="884" type="line"/>
+			<point x="-137" y="908"/>
+			<point x="-117" y="925"/>
+			<point x="-102" y="925" type="qcurve" smooth="yes"/>
+			<point x="-96" y="925"/>
+			<point x="-90" y="925" type="qcurve"/>
+			<point x="-77" y="923" type="line"/>
+			<point x="-42" y="915" type="line" smooth="yes"/>
+			<point x="-13" y="910"/>
+			<point x="19" y="907"/>
+			<point x="27" y="907" type="qcurve" smooth="yes"/>
+			<point x="99" y="907"/>
+			<point x="193" y="974"/>
+			<point x="240" y="1047" type="qcurve"/>
+			<point x="228" y="1056" type="line"/>
+			<point x="205" y="1033"/>
+			<point x="147" y="1009"/>
+			<point x="87" y="1009" type="qcurve" smooth="yes"/>
+			<point x="54" y="1009"/>
+			<point x="-29" y="1026"/>
+			<point x="-47" y="1026" type="qcurve" smooth="yes"/>
+			<point x="-80" y="1026"/>
+			<point x="-144" y="959"/>
+		</contour>
+		<contour>
+			<point x="0" y="980" type="line"/>
+			<point x="0" y="980" type="line"/>
+		</contour>
+		<contour>
+			<point x="0" y="1100" type="line"/>
+			<point x="0" y="1100" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

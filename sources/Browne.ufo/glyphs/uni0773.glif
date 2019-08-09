@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0773" format="2">
+	<advance width="330"/>
+	<unicode hex="0773"/>
+	<note>
+		uni0773
+  </note>
+	<outline>
+		<component base="AlefSep"/>
+		<component base="Small2AboveNS" xOffset="26" yOffset="220"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

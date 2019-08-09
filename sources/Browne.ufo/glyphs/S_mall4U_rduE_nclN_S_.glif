@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Small4UrduEnclNS" format="2">
+	<advance width="0"/>
+	<note>
+		Small4UrduEnclNS
+  </note>
+	<outline>
+		<component base="Small4UrduAboveNS"/>
+	</outline>
+</glyph>

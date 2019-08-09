@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="HamzaBelowNS" format="2">
+	<advance width="0"/>
+	<unicode hex="0655"/>
+	<note>
+		HamzaBelowNS
+  </note>
+	<outline>
+		<component base="HamzaAboveNS" yOffset="-1125"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

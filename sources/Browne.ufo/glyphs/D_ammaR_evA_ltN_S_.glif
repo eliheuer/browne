@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="DammaRevAltNS" format="2">
+	<advance width="0"/>
+	<note>
+		DammaRevAltNS
+  </note>
+	<outline>
+		<component base="DammaRevNS"/>
+	</outline>
+</glyph>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="TahIni.HRlow" format="2">
+	<advance width="486"/>
+	<note>
+		TahIni.HRlow
+  </note>
+	<outline>
+		<contour>
+			<point x="360" y="456" type="qcurve" smooth="yes"/>
+			<point x="300" y="456"/>
+			<point x="243" y="411" type="qcurve" smooth="yes"/>
+			<point x="198" y="376"/>
+			<point x="146" y="311" type="qcurve"/>
+			<point x="175" y="396"/>
+			<point x="182" y="470" type="qcurve"/>
+			<point x="187" y="572" type="line" smooth="yes"/>
+			<point x="189" y="613"/>
+			<point x="196" y="644" type="qcurve"/>
+			<point x="175" y="650" type="line"/>
+			<point x="116" y="517"/>
+			<point x="113" y="446" type="qcurve" smooth="yes"/>
+			<point x="112" y="400" type="line" smooth="yes"/>
+			<point x="109" y="278"/>
+			<point x="89" y="234" type="qcurve"/>
+			<point x="36" y="157" type="line"/>
+			<point x="3" y="153"/>
+			<point x="-44" y="99"/>
+			<point x="-44" y="57" type="qcurve" smooth="yes"/>
+			<point x="-43" y="1"/>
+			<point x="0" y="0" type="qcurve" smooth="yes"/>
+			<point x="109" y="1"/>
+			<point x="305" y="101"/>
+			<point x="426" y="305"/>
+			<point x="427" y="386" type="qcurve" smooth="yes"/>
+			<point x="426" y="455"/>
+		</contour>
+		<contour>
+			<point x="351" y="282" type="qcurve" smooth="yes"/>
+			<point x="350" y="242"/>
+			<point x="183" y="169"/>
+			<point x="88" y="160" type="qcurve"/>
+			<point x="114" y="198" type="line" smooth="yes"/>
+			<point x="202" y="319"/>
+			<point x="290" y="319" type="qcurve" smooth="yes"/>
+			<point x="315" y="319"/>
+			<point x="351" y="297"/>
+		</contour>
+		<contour>
+			<point x="365" y="1261" type="line"/>
+			<point x="365" y="1261" type="line"/>
+		</contour>
+		<contour>
+			<point x="280" y="-178" type="line"/>
+			<point x="280" y="-178" type="line"/>
+		</contour>
+		<contour>
+			<point x="399" y="673" type="line"/>
+			<point x="399" y="673" type="line"/>
+		</contour>
+		<contour>
+			<point x="322" y="601" type="line"/>
+			<point x="322" y="601" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

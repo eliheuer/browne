@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AinIni" format="2">
+	<advance width="422"/>
+	<note>
+		AinIni
+  </note>
+	<outline>
+		<contour>
+			<point x="364" y="264" type="qcurve"/>
+			<point x="345" y="274" type="line"/>
+			<point x="301" y="211"/>
+			<point x="234" y="185" type="qcurve" smooth="yes"/>
+			<point x="220" y="178"/>
+			<point x="206" y="176" type="qcurve"/>
+			<point x="166" y="176"/>
+			<point x="117" y="213"/>
+			<point x="117" y="243" type="qcurve" smooth="yes"/>
+			<point x="117" y="279"/>
+			<point x="185" y="331"/>
+			<point x="229" y="331" type="qcurve" smooth="yes"/>
+			<point x="267" y="331"/>
+			<point x="293" y="308" type="qcurve"/>
+			<point x="302" y="307" type="line"/>
+			<point x="331" y="325"/>
+			<point x="331" y="362" type="qcurve" smooth="yes"/>
+			<point x="331" y="388"/>
+			<point x="292" y="420"/>
+			<point x="262" y="420" type="qcurve" smooth="yes"/>
+			<point x="202" y="420"/>
+			<point x="77" y="300"/>
+			<point x="5" y="183"/>
+			<point x="5" y="147" type="qcurve"/>
+			<point x="-42" y="120"/>
+			<point x="-42" y="57" type="qcurve" smooth="yes"/>
+			<point x="-42" y="1"/>
+			<point x="0" y="0" type="qcurve" smooth="yes"/>
+			<point x="75" y="0"/>
+			<point x="222" y="71"/>
+			<point x="339" y="196"/>
+		</contour>
+		<contour>
+			<point x="202" y="678" type="line"/>
+			<point x="202" y="678" type="line"/>
+		</contour>
+		<contour>
+			<point x="224" y="708" type="line"/>
+			<point x="224" y="708" type="line"/>
+		</contour>
+		<contour>
+			<point x="213" y="-90" type="line"/>
+			<point x="213" y="-90" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

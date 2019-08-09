@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="KafIni.low" format="2">
+	<advance width="358"/>
+	<note>
+		KafIni.low
+  </note>
+	<outline>
+		<contour>
+			<point x="-43" y="57" type="qcurve" smooth="yes"/>
+			<point x="-42" y="1"/>
+			<point x="0" y="0" type="qcurve" smooth="yes"/>
+			<point x="93" y="0"/>
+			<point x="206" y="253"/>
+			<point x="227" y="492" type="qcurve" smooth="yes"/>
+			<point x="232" y="566"/>
+			<point x="238" y="688"/>
+			<point x="250" y="741"/>
+			<point x="266" y="773"/>
+			<point x="301" y="808" type="qcurve" smooth="yes"/>
+			<point x="391" y="898"/>
+			<point x="499" y="990" type="qcurve" smooth="yes"/>
+			<point x="626" y="1097"/>
+			<point x="693" y="1179" type="qcurve"/>
+			<point x="719" y="1246"/>
+			<point x="724" y="1271" type="qcurve"/>
+			<point x="715" y="1275" type="line"/>
+			<point x="660" y="1218" type="line"/>
+			<point x="626" y="1188"/>
+			<point x="445" y="1026"/>
+			<point x="259" y="856"/>
+			<point x="191" y="710"/>
+			<point x="172" y="629" type="qcurve" smooth="yes"/>
+			<point x="159" y="569"/>
+			<point x="157" y="508" type="qcurve" smooth="yes"/>
+			<point x="155" y="288"/>
+			<point x="145" y="254" type="qcurve"/>
+			<point x="123" y="158"/>
+			<point x="49" y="158" type="qcurve" smooth="yes"/>
+			<point x="12" y="158"/>
+			<point x="-42" y="106"/>
+		</contour>
+		<contour>
+			<point x="480" y="1333" type="line"/>
+			<point x="480" y="1333" type="line"/>
+		</contour>
+		<contour>
+			<point x="160" y="-174" type="line"/>
+			<point x="160" y="-174" type="line"/>
+		</contour>
+		<contour>
+			<point x="138" y="1023" type="line"/>
+			<point x="138" y="1023" type="line"/>
+		</contour>
+		<contour>
+			<point x="590" y="1005" type="line"/>
+			<point x="590" y="1005" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

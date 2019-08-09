@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="FathaNS" format="2">
+	<advance width="0"/>
+	<unicode hex="064E"/>
+	<note>
+		FathaNS
+  </note>
+	<outline>
+		<contour>
+			<point x="-59" y="940" type="line" smooth="yes"/>
+			<point x="-80" y="926"/>
+			<point x="-109" y="898"/>
+			<point x="-116" y="870" type="qcurve"/>
+			<point x="-109" y="865" type="line"/>
+			<point x="-101" y="874"/>
+			<point x="-74" y="891"/>
+			<point x="-56" y="901" type="qcurve" smooth="yes"/>
+			<point x="83" y="977" type="line" smooth="yes"/>
+			<point x="100" y="986"/>
+			<point x="127" y="1016"/>
+			<point x="138" y="1043" type="qcurve"/>
+			<point x="129" y="1048" type="line"/>
+			<point x="122" y="1043"/>
+			<point x="107" y="1035" type="qcurve" smooth="yes"/>
+			<point x="79" y="1019" type="line"/>
+			<point x="5" y="978" type="line"/>
+			<point x="-32" y="957" type="line"/>
+		</contour>
+		<contour>
+			<point x="0" y="959" type="line"/>
+			<point x="0" y="959" type="line"/>
+		</contour>
+		<contour>
+			<point x="0" y="1093" type="line"/>
+			<point x="0" y="1093" type="line"/>
+		</contour>
+		<contour>
+			<point x="0" y="926" type="line"/>
+			<point x="0" y="926" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="TehMarbutaUrdu" format="2">
+	<advance width="314"/>
+	<unicode hex="06C3"/>
+	<note>
+		TehMarbutaUrdu
+  </note>
+	<outline>
+		<component base="HehSep"/>
+		<component base="TwoDotsAboveNS" xOffset="159" yOffset="-249"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

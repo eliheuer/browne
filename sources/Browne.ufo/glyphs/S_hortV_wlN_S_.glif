@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ShortVwlNS" format="2">
+	<advance width="0"/>
+	<unicode hex="08FF"/>
+	<note>
+		ShortVwlNS
+  </note>
+	<outline>
+		<contour>
+			<point x="-33" y="812" type="qcurve"/>
+			<point x="-33" y="834" type="line"/>
+			<point x="20" y="847"/>
+			<point x="66" y="910"/>
+			<point x="66" y="956" type="qcurve" smooth="yes"/>
+			<point x="66" y="989"/>
+			<point x="38" y="1030"/>
+			<point x="0" y="1030" type="qcurve" smooth="yes"/>
+			<point x="-13" y="1030" type="line" smooth="yes"/>
+			<point x="-19" y="1030"/>
+			<point x="-26" y="1029" type="qcurve"/>
+			<point x="-27" y="1051" type="line"/>
+			<point x="-10" y="1055"/>
+			<point x="18" y="1060"/>
+			<point x="31" y="1060" type="qcurve" smooth="yes"/>
+			<point x="82" y="1060"/>
+			<point x="131" y="1004"/>
+			<point x="131" y="959" type="qcurve" smooth="yes"/>
+			<point x="131" y="898"/>
+			<point x="31" y="813"/>
+		</contour>
+		<contour>
+			<point x="31" y="805" type="line"/>
+			<point x="31" y="805" type="line"/>
+		</contour>
+		<contour>
+			<point x="34" y="1112" type="line"/>
+			<point x="34" y="1112" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

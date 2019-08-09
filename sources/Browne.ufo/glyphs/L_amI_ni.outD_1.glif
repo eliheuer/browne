@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LamIni.outD1" format="2">
+	<advance width="739"/>
+	<note>
+		LamIni.outD1
+  </note>
+	<outline>
+		<contour>
+			<point x="439" y="165" type="qcurve" smooth="yes"/>
+			<point x="373" y="116"/>
+			<point x="243" y="80" type="qcurve" smooth="yes"/>
+			<point x="107" y="45"/>
+			<point x="-6" y="45" type="qcurve" smooth="yes"/>
+			<point x="-26" y="45"/>
+			<point x="-39" y="33"/>
+			<point x="-39" y="23" type="qcurve" smooth="yes"/>
+			<point x="-39" y="0"/>
+			<point x="0" y="0" type="qcurve" smooth="yes"/>
+			<point x="117" y="0"/>
+			<point x="333" y="50"/>
+			<point x="410" y="90" type="qcurve" smooth="yes"/>
+			<point x="477" y="126"/>
+			<point x="555" y="226"/>
+			<point x="597" y="354"/>
+			<point x="604" y="468" type="qcurve" smooth="yes"/>
+			<point x="606" y="512"/>
+			<point x="612" y="594"/>
+			<point x="619" y="723" type="qcurve" smooth="yes"/>
+			<point x="622" y="814"/>
+			<point x="631" y="854" type="qcurve"/>
+			<point x="610" y="861" type="line"/>
+			<point x="542" y="710"/>
+			<point x="539" y="566" type="qcurve" smooth="yes"/>
+			<point x="535" y="388" type="line" smooth="yes"/>
+			<point x="532" y="301"/>
+			<point x="485" y="200"/>
+		</contour>
+		<contour>
+			<point x="614" y="1096" type="line"/>
+			<point x="614" y="1096" type="line"/>
+		</contour>
+		<contour>
+			<point x="616" y="989" type="line"/>
+			<point x="616" y="989" type="line"/>
+		</contour>
+		<contour>
+			<point x="500" y="-137" type="line"/>
+			<point x="500" y="-137" type="line"/>
+		</contour>
+		<contour>
+			<point x="580" y="608" type="line"/>
+			<point x="580" y="608" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

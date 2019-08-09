@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>1904</integer>
+	<key>capHeight</key>
+	<integer>1805</integer>
+	<key>descender</key>
+	<integer>-596</integer>
+	<key>familyName</key>
+	<string>Browne</string>
+	<key>openTypeHeadCreated</key>
+	<string>2013/09/04 10:13:46</string>
+	<key>openTypeHheaAscender</key>
+	<integer>1904</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-596</integer>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Browne</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
+	<key>openTypeOS2CodePageRanges</key>
+	<array>
+		<integer>0</integer>
+		<integer>6</integer>
+	</array>
+	<key>openTypeOS2Type</key>
+	<array/>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>1904</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-596</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>0</integer>
+	<key>openTypeOS2UnicodeRanges</key>
+	<array>
+		<integer>13</integer>
+	</array>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>1904</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>596</integer>
+	<key>postscriptBlueValues</key>
+	<array/>
+	<key>postscriptFontName</key>
+	<string>Browne-Regular</string>
+	<key>postscriptOtherBlues</key>
+	<array/>
+	<key>postscriptStrikeoutPosition</key>
+	<integer>586</integer>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>20</integer>
+	<key>xHeight</key>
+	<integer>1263</integer>
+</dict>
+</plist>

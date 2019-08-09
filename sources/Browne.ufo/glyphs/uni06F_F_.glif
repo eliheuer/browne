@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06FF" format="2">
+	<advance width="655"/>
+	<unicode hex="06FF"/>
+	<note>
+		uni06FF
+  </note>
+	<outline>
+		<component base="HehDoSep"/>
+		<component base="CircumArabicNS" xOffset="417" yOffset="-367"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

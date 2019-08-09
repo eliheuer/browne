@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="QuoteSingleLeftArabic" format="2">
+	<advance width="307"/>
+	<unicode hex="2018"/>
+	<note>
+		QuoteSingleLeftArabic
+  </note>
+	<outline>
+		<contour>
+			<point x="228" y="783" type="qcurve" smooth="yes"/>
+			<point x="228" y="806"/>
+			<point x="190" y="833" type="qcurve" smooth="yes"/>
+			<point x="148" y="866"/>
+			<point x="148" y="886" type="qcurve" smooth="yes"/>
+			<point x="148" y="907"/>
+			<point x="170" y="951"/>
+			<point x="195" y="988" type="qcurve"/>
+			<point x="178" y="1000" type="line"/>
+			<point x="134" y="954"/>
+			<point x="79" y="837"/>
+			<point x="79" y="795" type="qcurve" smooth="yes"/>
+			<point x="79" y="762"/>
+			<point x="112" y="720"/>
+			<point x="145" y="698" type="qcurve"/>
+			<point x="154" y="698" type="line"/>
+			<point x="185" y="718"/>
+			<point x="228" y="767"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

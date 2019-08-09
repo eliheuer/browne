@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SadIni.outD2D" format="2">
+	<advance width="814"/>
+	<note>
+		SadIni.outD2D
+  </note>
+	<outline>
+		<contour>
+			<point x="17" y="-37" type="qcurve" smooth="yes"/>
+			<point x="27" y="-37"/>
+			<point x="38" y="-16" type="qcurve"/>
+			<point x="63" y="27"/>
+			<point x="125" y="71"/>
+			<point x="217" y="97"/>
+			<point x="259" y="97" type="qcurve" smooth="yes"/>
+			<point x="284" y="97"/>
+			<point x="310" y="80" type="qcurve" smooth="yes"/>
+			<point x="349" y="57"/>
+			<point x="399" y="57" type="qcurve" smooth="yes"/>
+			<point x="460" y="57"/>
+			<point x="568" y="100"/>
+			<point x="663" y="183"/>
+			<point x="756" y="334"/>
+			<point x="756" y="394" type="qcurve" smooth="yes"/>
+			<point x="756" y="422"/>
+			<point x="715" y="458"/>
+			<point x="680" y="458" type="qcurve" smooth="yes"/>
+			<point x="622" y="458"/>
+			<point x="502" y="380"/>
+			<point x="432" y="303" type="qcurve"/>
+			<point x="398" y="270"/>
+			<point x="340" y="191" type="qcurve"/>
+			<point x="320" y="203"/>
+			<point x="292" y="203" type="qcurve" smooth="yes"/>
+			<point x="239" y="203"/>
+			<point x="172" y="165" type="qcurve" smooth="yes"/>
+			<point x="111" y="133"/>
+			<point x="49" y="66" type="qcurve" smooth="yes"/>
+			<point x="-6" y="2"/>
+			<point x="-6" y="-20" type="qcurve"/>
+			<point x="-4" y="-36"/>
+		</contour>
+		<contour>
+			<point x="666" y="288" type="qcurve" smooth="yes"/>
+			<point x="666" y="250"/>
+			<point x="508" y="168"/>
+			<point x="437" y="168" type="qcurve" smooth="yes"/>
+			<point x="406" y="168"/>
+			<point x="381" y="177" type="qcurve"/>
+			<point x="404" y="208"/>
+			<point x="483" y="291"/>
+			<point x="556" y="331"/>
+			<point x="598" y="331" type="qcurve" smooth="yes"/>
+			<point x="626" y="331"/>
+			<point x="666" y="306"/>
+		</contour>
+		<contour>
+			<point x="529" y="693" type="line"/>
+			<point x="529" y="693" type="line"/>
+		</contour>
+		<contour>
+			<point x="487" y="-180" type="line"/>
+			<point x="487" y="-180" type="line"/>
+		</contour>
+		<contour>
+			<point x="0" y="0" type="line"/>
+			<point x="0" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

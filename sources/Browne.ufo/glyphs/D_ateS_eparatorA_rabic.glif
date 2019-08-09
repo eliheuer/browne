@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="DateSeparatorArabic" format="2">
+	<advance width="529"/>
+	<unicode hex="060D"/>
+	<note>
+		DateSeparatorArabic
+  </note>
+	<outline>
+		<contour>
+			<point x="406" y="407" type="qcurve"/>
+			<point x="390" y="417" type="line"/>
+			<point x="310" y="370"/>
+			<point x="144" y="126"/>
+			<point x="114" y="1" type="qcurve"/>
+			<point x="133" y="-5" type="line"/>
+			<point x="172" y="76"/>
+			<point x="254" y="176"/>
+			<point x="346" y="242" type="qcurve" smooth="yes"/>
+			<point x="357" y="249"/>
+			<point x="374" y="266"/>
+			<point x="378" y="281" type="qcurve" smooth="yes"/>
+			<point x="381" y="296"/>
+			<point x="387" y="314" type="qcurve" smooth="yes"/>
+			<point x="393" y="339"/>
+			<point x="406" y="394"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

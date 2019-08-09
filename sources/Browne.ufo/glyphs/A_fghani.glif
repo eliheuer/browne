@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Afghani" format="2">
+	<advance width="331"/>
+	<unicode hex="060B"/>
+	<note>
+		Afghani
+  </note>
+	<outline>
+		<component base="FehxIni.outT2N" xOffset="53"/>
+		<component base="OneDotAboveNS" xOffset="185" yOffset="-220"/>
+		<component base="AlefSuperiorTallNS" xOffset="165" yOffset="-1205"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

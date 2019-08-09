@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="WawFin.inD2alt" format="2">
+	<advance width="258"/>
+	<note>
+		WawFin.inD2alt
+  </note>
+	<outline>
+		<contour>
+			<point x="321" y="143" type="qcurve" smooth="yes"/>
+			<point x="336" y="189"/>
+			<point x="342" y="235" type="qcurve"/>
+			<point x="346" y="237"/>
+			<point x="350" y="240" type="qcurve" smooth="yes"/>
+			<point x="384" y="266"/>
+			<point x="448" y="342" type="qcurve" smooth="yes"/>
+			<point x="460" y="355"/>
+			<point x="460" y="366" type="qcurve" smooth="yes"/>
+			<point x="459" y="379"/>
+			<point x="447" y="380" type="qcurve" smooth="yes"/>
+			<point x="437" y="380"/>
+			<point x="427" y="371" type="qcurve" smooth="yes"/>
+			<point x="388" y="336"/>
+			<point x="343" y="323" type="qcurve"/>
+			<point x="333" y="449"/>
+			<point x="257" y="449" type="qcurve" smooth="yes"/>
+			<point x="212" y="449"/>
+			<point x="189" y="402" type="qcurve" smooth="yes"/>
+			<point x="156" y="336" type="line" smooth="yes"/>
+			<point x="136" y="295"/>
+			<point x="136" y="262" type="qcurve" smooth="yes"/>
+			<point x="136" y="230"/>
+			<point x="185" y="191"/>
+			<point x="220" y="191" type="qcurve" smooth="yes"/>
+			<point x="268" y="191"/>
+			<point x="293" y="207" type="qcurve"/>
+			<point x="291" y="185"/>
+			<point x="237" y="112"/>
+			<point x="93" y="-2"/>
+			<point x="20" y="-46" type="qcurve"/>
+			<point x="24" y="-68" type="line"/>
+			<point x="90" y="-50"/>
+			<point x="229" y="3"/>
+			<point x="252" y="20" type="qcurve"/>
+			<point x="297" y="73"/>
+		</contour>
+		<contour>
+			<point x="205" y="647" type="line"/>
+			<point x="205" y="647" type="line"/>
+		</contour>
+		<contour>
+			<point x="137" y="646" type="line"/>
+			<point x="137" y="646" type="line"/>
+		</contour>
+		<contour>
+			<point x="183" y="-288" type="line"/>
+			<point x="183" y="-288" type="line"/>
+		</contour>
+		<contour>
+			<point x="258" y="237" type="line"/>
+			<point x="258" y="237" type="line"/>
+		</contour>
+		<contour>
+			<point x="124" y="49" type="line"/>
+			<point x="124" y="49" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="NumberSign" format="2">
+	<advance width="1527"/>
+	<unicode hex="0600"/>
+	<note>
+		NumberSign
+  </note>
+	<outline>
+		<contour>
+			<point x="1413" y="570" type="line"/>
+			<point x="1365" y="527"/>
+			<point x="1263" y="359"/>
+			<point x="1245" y="291" type="qcurve"/>
+			<point x="1203" y="252" type="line"/>
+			<point x="1140" y="188"/>
+			<point x="744" y="116"/>
+			<point x="496" y="116" type="qcurve" smooth="yes"/>
+			<point x="399" y="116"/>
+			<point x="157" y="136"/>
+			<point x="116" y="147" type="qcurve"/>
+			<point x="110" y="140" type="line"/>
+			<point x="104" y="109"/>
+			<point x="104" y="81" type="qcurve" smooth="yes"/>
+			<point x="104" y="47"/>
+			<point x="174" y="16"/>
+			<point x="354" y="0"/>
+			<point x="444" y="0" type="qcurve" smooth="yes"/>
+			<point x="636" y="0"/>
+			<point x="1010" y="84"/>
+			<point x="1141" y="156" type="qcurve" smooth="yes"/>
+			<point x="1163" y="169"/>
+			<point x="1192" y="178"/>
+			<point x="1212" y="178" type="qcurve" smooth="yes"/>
+			<point x="1232" y="178"/>
+			<point x="1272" y="156" type="qcurve" smooth="yes"/>
+			<point x="1295" y="144"/>
+			<point x="1308" y="144" type="qcurve" smooth="yes"/>
+			<point x="1337" y="144"/>
+			<point x="1393" y="229"/>
+			<point x="1393" y="259" type="qcurve" smooth="yes"/>
+			<point x="1393" y="283"/>
+			<point x="1361" y="300" type="qcurve" smooth="yes"/>
+			<point x="1334" y="314" type="line" smooth="yes"/>
+			<point x="1312" y="327"/>
+			<point x="1312" y="345" type="qcurve" smooth="yes"/>
+			<point x="1312" y="385"/>
+			<point x="1370" y="438" type="qcurve" smooth="yes"/>
+			<point x="1379" y="446"/>
+			<point x="1420" y="556"/>
+			<point x="1422" y="567" type="qcurve"/>
+		</contour>
+		<contour>
+			<point x="865" y="279" type="line"/>
+			<point x="865" y="279" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

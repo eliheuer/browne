@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SeenMed.SWinHoutT2" format="2">
+	<advance width="567"/>
+	<note>
+		SeenMed.SWinHoutT2
+  </note>
+	<outline>
+		<contour>
+			<point x="596" y="266" type="qcurve" smooth="yes"/>
+			<point x="579" y="266"/>
+			<point x="556" y="220"/>
+			<point x="446" y="148"/>
+			<point x="257" y="98"/>
+			<point x="165" y="98" type="qcurve" smooth="yes"/>
+			<point x="90" y="98"/>
+			<point x="10" y="119"/>
+			<point x="-2" y="128" type="qcurve"/>
+			<point x="-20" y="123" type="line"/>
+			<point x="-21" y="121"/>
+			<point x="-24" y="111" type="qcurve" smooth="yes"/>
+			<point x="-33" y="87" type="line" smooth="yes"/>
+			<point x="-39" y="74"/>
+			<point x="-46" y="46"/>
+			<point x="-46" y="35" type="qcurve" smooth="yes"/>
+			<point x="-46" y="10"/>
+			<point x="43" y="-24"/>
+			<point x="112" y="-24" type="qcurve" smooth="yes"/>
+			<point x="233" y="-24"/>
+			<point x="475" y="77"/>
+			<point x="614" y="224"/>
+			<point x="614" y="249" type="qcurve" smooth="yes"/>
+			<point x="614" y="257"/>
+			<point x="604" y="266"/>
+		</contour>
+		<contour>
+			<point x="567" y="213" type="line"/>
+			<point x="567" y="213" type="line"/>
+		</contour>
+		<contour>
+			<point x="0" y="0" type="line"/>
+			<point x="0" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="310" y="-237" type="line"/>
+			<point x="310" y="-237" type="line"/>
+		</contour>
+		<contour>
+			<point x="313" y="501" type="line"/>
+			<point x="313" y="501" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

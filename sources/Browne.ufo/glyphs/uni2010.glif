@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2010" format="2">
+	<advance width="473"/>
+	<unicode hex="2010"/>
+	<note>
+		uni2010
+  </note>
+	<outline>
+		<component base="hyphen" yOffset="-264"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

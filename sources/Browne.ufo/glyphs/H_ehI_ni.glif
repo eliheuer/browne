@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="HehIni" format="2">
+	<advance width="175"/>
+	<note>
+		HehIni
+  </note>
+	<outline>
+		<contour>
+			<point x="118" y="259" type="qcurve" smooth="yes"/>
+			<point x="107" y="259"/>
+			<point x="104" y="254" type="qcurve"/>
+			<point x="63" y="159" type="line"/>
+			<point x="55" y="158"/>
+			<point x="49" y="158" type="qcurve" smooth="yes"/>
+			<point x="11" y="158"/>
+			<point x="-43" y="104"/>
+			<point x="-43" y="57" type="qcurve" smooth="yes"/>
+			<point x="-42" y="0"/>
+			<point x="0" y="0" type="qcurve" smooth="yes"/>
+			<point x="73" y="1"/>
+			<point x="146" y="143"/>
+			<point x="147" y="208" type="qcurve" smooth="yes"/>
+			<point x="147" y="235"/>
+			<point x="133" y="259"/>
+		</contour>
+		<contour>
+			<point x="127" y="401" type="line"/>
+			<point x="127" y="401" type="line"/>
+		</contour>
+		<contour>
+			<point x="122" y="525" type="line"/>
+			<point x="122" y="525" type="line"/>
+		</contour>
+		<contour>
+			<point x="133" y="7" type="line"/>
+			<point x="133" y="7" type="line"/>
+		</contour>
+		<contour>
+			<point x="38" y="-89" type="line"/>
+			<point x="38" y="-89" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

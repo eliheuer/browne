@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="EqualArabic" format="2">
+	<advance width="567"/>
+	<unicode hex="003D"/>
+	<note>
+		EqualArabic
+  </note>
+	<outline>
+		<contour>
+			<point x="518" y="373" type="line"/>
+			<point x="518" y="416" type="line"/>
+			<point x="50" y="416" type="line"/>
+			<point x="50" y="373" type="line"/>
+		</contour>
+		<contour>
+			<point x="518" y="203" type="line"/>
+			<point x="518" y="246" type="line"/>
+			<point x="50" y="246" type="line"/>
+			<point x="50" y="203" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

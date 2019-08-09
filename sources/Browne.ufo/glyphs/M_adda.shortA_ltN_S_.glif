@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Madda.shortAltNS" format="2">
+	<advance width="0"/>
+	<note>
+		Madda.shortAltNS
+  </note>
+	<outline>
+		<component base="Madda.shortNS"/>
+	</outline>
+</glyph>

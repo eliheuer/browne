@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="EightArabic" format="2">
+	<advance width="567"/>
+	<unicode hex="0668"/>
+	<note>
+		EightArabic
+  </note>
+	<outline>
+		<contour>
+			<point x="523" y="127" type="qcurve"/>
+			<point x="462" y="257"/>
+			<point x="342" y="578" type="qcurve"/>
+			<point x="334" y="601"/>
+			<point x="316" y="648"/>
+			<point x="305" y="670" type="qcurve"/>
+			<point x="285" y="670" type="line"/>
+			<point x="271" y="655"/>
+			<point x="205" y="490" type="qcurve" smooth="yes"/>
+			<point x="143" y="340"/>
+			<point x="68" y="176" type="qcurve" smooth="yes"/>
+			<point x="28" y="90" type="line"/>
+			<point x="28" y="84"/>
+			<point x="53" y="15"/>
+			<point x="61" y="0" type="qcurve"/>
+			<point x="69" y="0" type="line"/>
+			<point x="91" y="52"/>
+			<point x="232" y="412"/>
+			<point x="261" y="494" type="qcurve"/>
+			<point x="267" y="494" type="line"/>
+			<point x="284" y="428"/>
+			<point x="411" y="82"/>
+			<point x="452" y="0" type="qcurve"/>
+			<point x="460" y="0" type="line"/>
+			<point x="479" y="30"/>
+			<point x="517" y="106"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

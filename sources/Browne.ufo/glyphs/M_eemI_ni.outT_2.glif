@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="MeemIni.outT2" format="2">
+	<advance width="533"/>
+	<note>
+		MeemIni.outT2
+  </note>
+	<outline>
+		<contour>
+			<point x="246" y="175" type="qcurve"/>
+			<point x="255" y="181"/>
+			<point x="266" y="182" type="qcurve"/>
+			<point x="295" y="181"/>
+			<point x="341" y="160" type="qcurve"/>
+			<point x="353" y="156"/>
+			<point x="367" y="156" type="qcurve" smooth="yes"/>
+			<point x="398" y="156"/>
+			<point x="465" y="242"/>
+			<point x="465" y="275" type="qcurve" smooth="yes"/>
+			<point x="465" y="288"/>
+			<point x="455" y="308"/>
+			<point x="441" y="324" type="qcurve" smooth="yes"/>
+			<point x="421" y="351"/>
+			<point x="402" y="399" type="qcurve"/>
+			<point x="389" y="399" type="line"/>
+			<point x="378" y="389"/>
+			<point x="336" y="336"/>
+			<point x="327" y="317" type="qcurve"/>
+			<point x="295" y="310"/>
+			<point x="242" y="244"/>
+			<point x="225" y="222"/>
+			<point x="215" y="208" type="qcurve" smooth="yes"/>
+			<point x="176" y="157"/>
+			<point x="79" y="106"/>
+			<point x="33" y="106" type="qcurve" smooth="yes"/>
+			<point x="8" y="105"/>
+			<point x="-29" y="68"/>
+			<point x="-29" y="39" type="qcurve" smooth="yes"/>
+			<point x="-29" y="22"/>
+			<point x="-11" y="0"/>
+			<point x="0" y="0" type="qcurve" smooth="yes"/>
+			<point x="37" y="0"/>
+			<point x="102" y="34"/>
+			<point x="161" y="97" type="qcurve" smooth="yes"/>
+			<point x="198" y="134"/>
+			<point x="235" y="169"/>
+		</contour>
+		<contour>
+			<point x="382" y="696" type="line"/>
+			<point x="382" y="696" type="line"/>
+		</contour>
+		<contour>
+			<point x="345" y="-107" type="line"/>
+			<point x="345" y="-107" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="PlusArabic" format="2">
+	<advance width="567"/>
+	<unicode hex="002B"/>
+	<note>
+		PlusArabic
+  </note>
+	<outline>
+		<contour>
+			<point x="518" y="291" type="line"/>
+			<point x="518" y="334" type="line"/>
+			<point x="304" y="334" type="line"/>
+			<point x="304" y="539" type="line"/>
+			<point x="261" y="539" type="line"/>
+			<point x="261" y="334" type="line"/>
+			<point x="50" y="334" type="line"/>
+			<point x="50" y="291" type="line"/>
+			<point x="261" y="291" type="line"/>
+			<point x="261" y="85" type="line"/>
+			<point x="304" y="85" type="line"/>
+			<point x="304" y="291" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

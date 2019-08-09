@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LamMed.outD11" format="2">
+	<advance width="570"/>
+	<note>
+		LamMed.outD11
+  </note>
+	<outline>
+		<contour>
+			<point x="37" y="-3" type="qcurve" smooth="yes"/>
+			<point x="167" y="-3"/>
+			<point x="388" y="94"/>
+			<point x="437" y="185" type="qcurve" smooth="yes"/>
+			<point x="443" y="197"/>
+			<point x="448" y="209" type="qcurve"/>
+			<point x="456" y="165"/>
+			<point x="473" y="138" type="qcurve" smooth="yes"/>
+			<point x="504" y="85"/>
+			<point x="570" y="85" type="qcurve" smooth="yes"/>
+			<point x="607" y="85"/>
+			<point x="663" y="137"/>
+			<point x="663" y="187" type="qcurve" smooth="yes"/>
+			<point x="663" y="244"/>
+			<point x="620" y="244" type="qcurve" smooth="yes"/>
+			<point x="579" y="244"/>
+			<point x="533" y="289"/>
+			<point x="513" y="373"/>
+			<point x="512" y="444" type="qcurve" smooth="yes"/>
+			<point x="513" y="758"/>
+			<point x="537" y="874" type="qcurve"/>
+			<point x="517" y="880" type="line"/>
+			<point x="491" y="821"/>
+			<point x="462" y="701"/>
+			<point x="457" y="609" type="qcurve" smooth="yes"/>
+			<point x="454" y="559"/>
+			<point x="448" y="464"/>
+			<point x="441" y="314"/>
+			<point x="423" y="261" type="qcurve" smooth="yes"/>
+			<point x="393" y="171"/>
+			<point x="201" y="71"/>
+			<point x="66" y="71" type="qcurve" smooth="yes"/>
+			<point x="19" y="71"/>
+			<point x="-35" y="46"/>
+			<point x="-35" y="27" type="qcurve" smooth="yes"/>
+			<point x="-35" y="14"/>
+			<point x="-26" y="1"/>
+			<point x="20" y="-3"/>
+		</contour>
+		<contour>
+			<point x="568" y="1082" type="line"/>
+			<point x="568" y="1082" type="line"/>
+		</contour>
+		<contour>
+			<point x="417" y="-216" type="line"/>
+			<point x="417" y="-216" type="line"/>
+		</contour>
+		<contour>
+			<point x="0" y="0" type="line"/>
+			<point x="0" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="492" y="608" type="line"/>
+			<point x="492" y="608" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SadIni.r" format="2">
+	<advance width="613"/>
+	<note>
+		SadIni.r
+  </note>
+	<outline>
+		<contour>
+			<point x="555" y="372" type="qcurve" smooth="yes"/>
+			<point x="555" y="400"/>
+			<point x="515" y="436"/>
+			<point x="479" y="436" type="qcurve" smooth="yes"/>
+			<point x="421" y="436"/>
+			<point x="301" y="358"/>
+			<point x="230" y="281" type="qcurve"/>
+			<point x="192" y="243"/>
+			<point x="126" y="152" type="qcurve"/>
+			<point x="102" y="158"/>
+			<point x="84" y="158" type="qcurve" smooth="yes"/>
+			<point x="39" y="158"/>
+			<point x="-33" y="82"/>
+			<point x="-33" y="32" type="qcurve" smooth="yes"/>
+			<point x="-33" y="0"/>
+			<point x="0" y="0" type="qcurve" smooth="yes"/>
+			<point x="20" y="-1"/>
+			<point x="77" y="-12"/>
+			<point x="118" y="-12" type="qcurve" smooth="yes"/>
+			<point x="225" y="-12"/>
+			<point x="410" y="94"/>
+			<point x="555" y="299"/>
+		</contour>
+		<contour>
+			<point x="465" y="266" type="qcurve" smooth="yes"/>
+			<point x="465" y="237"/>
+			<point x="375" y="173"/>
+			<point x="257" y="142"/>
+			<point x="200" y="142" type="qcurve" smooth="yes"/>
+			<point x="184" y="142"/>
+			<point x="170" y="144" type="qcurve"/>
+			<point x="190" y="169"/>
+			<point x="275" y="264"/>
+			<point x="353" y="309"/>
+			<point x="396" y="309" type="qcurve" smooth="yes"/>
+			<point x="424" y="309"/>
+			<point x="465" y="284"/>
+		</contour>
+		<contour>
+			<point x="231" y="616" type="line"/>
+			<point x="231" y="616" type="line"/>
+		</contour>
+		<contour>
+			<point x="184" y="-322" type="line"/>
+			<point x="184" y="-322" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

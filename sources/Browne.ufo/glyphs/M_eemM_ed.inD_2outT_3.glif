@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="MeemMed.inD2outT3" format="2">
+	<advance width="350"/>
+	<note>
+		MeemMed.inD2outT3
+  </note>
+	<outline>
+		<contour>
+			<point x="451" y="262" type="qcurve"/>
+			<point x="449" y="277"/>
+			<point x="382" y="308"/>
+			<point x="345" y="308" type="qcurve" smooth="yes"/>
+			<point x="305" y="308"/>
+			<point x="257" y="243" type="qcurve" smooth="yes"/>
+			<point x="228" y="202" type="line" smooth="yes"/>
+			<point x="143" y="87"/>
+			<point x="26" y="85" type="qcurve" smooth="yes"/>
+			<point x="9" y="85"/>
+			<point x="-24" y="56"/>
+			<point x="-24" y="31" type="qcurve" smooth="yes"/>
+			<point x="-24" y="17"/>
+			<point x="-10" y="0"/>
+			<point x="0" y="0" type="qcurve" smooth="yes"/>
+			<point x="47" y="0"/>
+			<point x="131" y="43"/>
+			<point x="189" y="104" type="qcurve" smooth="yes"/>
+			<point x="255" y="177"/>
+			<point x="277" y="177" type="qcurve" smooth="yes"/>
+			<point x="283" y="177"/>
+			<point x="307" y="171"/>
+			<point x="353" y="147"/>
+			<point x="366" y="147" type="qcurve" smooth="yes"/>
+			<point x="395" y="147"/>
+			<point x="449" y="229"/>
+		</contour>
+		<contour>
+			<point x="155" y="686" type="line"/>
+			<point x="155" y="686" type="line"/>
+		</contour>
+		<contour>
+			<point x="203" y="-171" type="line"/>
+			<point x="203" y="-171" type="line"/>
+		</contour>
+		<contour>
+			<point x="350" y="308" type="line"/>
+			<point x="350" y="308" type="line"/>
+		</contour>
+		<contour>
+			<point x="155" y="539" type="line"/>
+			<point x="155" y="539" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

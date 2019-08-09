@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="KafIni.HRoutD2" format="2">
+	<advance width="250"/>
+	<note>
+		KafIni.HRoutD2
+  </note>
+	<outline>
+		<contour>
+			<point x="2" y="-38" type="qcurve" smooth="yes"/>
+			<point x="12" y="-38"/>
+			<point x="46" y="-12"/>
+			<point x="55" y="3" type="qcurve"/>
+			<point x="78" y="52"/>
+			<point x="123" y="237"/>
+			<point x="131" y="411"/>
+			<point x="143" y="465"/>
+			<point x="159" y="498"/>
+			<point x="193" y="532" type="qcurve" smooth="yes"/>
+			<point x="284" y="622"/>
+			<point x="391" y="714" type="qcurve" smooth="yes"/>
+			<point x="519" y="821"/>
+			<point x="586" y="903" type="qcurve"/>
+			<point x="612" y="969"/>
+			<point x="617" y="995" type="qcurve"/>
+			<point x="608" y="1000" type="line"/>
+			<point x="553" y="942" type="line"/>
+			<point x="520" y="912"/>
+			<point x="337" y="750"/>
+			<point x="152" y="580"/>
+			<point x="85" y="435"/>
+			<point x="65" y="354" type="qcurve"/>
+			<point x="52" y="291"/>
+			<point x="50" y="232" type="qcurve"/>
+			<point x="43" y="132"/>
+			<point x="31" y="74"/>
+			<point x="22" y="51" type="qcurve" smooth="yes"/>
+			<point x="18" y="40"/>
+			<point x="6" y="13"/>
+			<point x="0" y="0" type="qcurve" smooth="yes"/>
+			<point x="-9" y="-20"/>
+			<point x="-9" y="-27" type="qcurve" smooth="yes"/>
+			<point x="-8" y="-38"/>
+		</contour>
+		<contour>
+			<point x="245" y="1026" type="line"/>
+			<point x="245" y="1026" type="line"/>
+		</contour>
+		<contour>
+			<point x="142" y="-252" type="line"/>
+			<point x="142" y="-252" type="line"/>
+		</contour>
+		<contour>
+			<point x="121" y="786" type="line"/>
+			<point x="121" y="786" type="line"/>
+		</contour>
+		<contour>
+			<point x="491" y="742" type="line"/>
+			<point x="491" y="742" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

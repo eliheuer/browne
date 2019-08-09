@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFBB2" format="2">
+	<advance width="229"/>
+	<unicode hex="FBB2"/>
+	<note>
+		uniFBB2
+  </note>
+	<outline>
+		<component base="OneDot" xOffset="-46" yOffset="430"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

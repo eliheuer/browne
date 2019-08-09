@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ghain" format="2">
+	<advance width="872"/>
+	<unicode hex="063A"/>
+	<note>
+		Ghain
+  </note>
+	<outline>
+		<component base="AinSep"/>
+		<component base="OneDotAboveNS" xOffset="323" yOffset="83"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

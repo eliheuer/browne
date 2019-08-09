@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="RingNS" format="2">
+	<advance width="0"/>
+	<note>
+		RingNS
+  </note>
+	<outline>
+		<contour>
+			<point x="80" y="533" type="qcurve" smooth="yes"/>
+			<point x="80" y="569"/>
+			<point x="37" y="615"/>
+			<point x="8" y="615" type="qcurve" smooth="yes"/>
+			<point x="-33" y="615"/>
+			<point x="-81" y="555"/>
+			<point x="-81" y="516" type="qcurve" smooth="yes"/>
+			<point x="-81" y="482"/>
+			<point x="-35" y="440"/>
+			<point x="-4" y="440" type="qcurve" smooth="yes"/>
+			<point x="34" y="440"/>
+			<point x="80" y="492"/>
+		</contour>
+		<contour>
+			<point x="1" y="563" type="qcurve" smooth="yes"/>
+			<point x="20" y="563"/>
+			<point x="52" y="547"/>
+			<point x="52" y="532" type="qcurve" smooth="yes"/>
+			<point x="52" y="512"/>
+			<point x="20" y="490"/>
+			<point x="0" y="490" type="qcurve" smooth="yes"/>
+			<point x="-26" y="490"/>
+			<point x="-51" y="510"/>
+			<point x="-51" y="524" type="qcurve" smooth="yes"/>
+			<point x="-51" y="542"/>
+			<point x="-18" y="563"/>
+		</contour>
+		<contour>
+			<point x="0" y="519" type="line"/>
+			<point x="0" y="519" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:10 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="FehxIni.outD1" format="2">
+	<advance width="713"/>
+	<note>
+		FehxIni.outD1
+  </note>
+	<outline>
+		<contour>
+			<point x="495" y="165" type="qcurve" smooth="yes"/>
+			<point x="401" y="108"/>
+			<point x="243" y="77" type="qcurve" smooth="yes"/>
+			<point x="222" y="72"/>
+			<point x="69" y="46"/>
+			<point x="-6" y="45" type="qcurve" smooth="yes"/>
+			<point x="-26" y="45"/>
+			<point x="-39" y="33"/>
+			<point x="-39" y="23" type="qcurve" smooth="yes"/>
+			<point x="-39" y="0"/>
+			<point x="0" y="0" type="qcurve" smooth="yes"/>
+			<point x="104" y="1"/>
+			<point x="210" y="12"/>
+			<point x="235" y="17" type="qcurve" smooth="yes"/>
+			<point x="448" y="51"/>
+			<point x="553" y="144" type="qcurve" smooth="yes"/>
+			<point x="658" y="238"/>
+			<point x="658" y="368" type="qcurve" smooth="yes"/>
+			<point x="658" y="435"/>
+			<point x="602" y="521"/>
+			<point x="554" y="521" type="qcurve" smooth="yes"/>
+			<point x="512" y="521"/>
+			<point x="491" y="477" type="qcurve" smooth="yes"/>
+			<point x="461" y="417" type="line" smooth="yes"/>
+			<point x="443" y="381"/>
+			<point x="443" y="349" type="qcurve" smooth="yes"/>
+			<point x="443" y="320"/>
+			<point x="491" y="279"/>
+			<point x="523" y="279" type="qcurve" smooth="yes"/>
+			<point x="562" y="279"/>
+			<point x="591" y="299" type="qcurve"/>
+			<point x="591" y="225"/>
+		</contour>
+		<contour>
+			<point x="534" y="753" type="line"/>
+			<point x="534" y="753" type="line"/>
+		</contour>
+		<contour>
+			<point x="618" y="847" type="line"/>
+			<point x="618" y="847" type="line"/>
+		</contour>
+		<contour>
+			<point x="529" y="-156" type="line"/>
+			<point x="529" y="-156" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

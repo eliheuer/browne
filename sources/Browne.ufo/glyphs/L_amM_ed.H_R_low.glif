@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LamMed.HRlow" format="2">
+	<advance width="308"/>
+	<note>
+		LamMed.HRlow
+  </note>
+	<outline>
+		<contour>
+			<point x="181" y="187" type="qcurve"/>
+			<point x="184" y="187" type="line"/>
+			<point x="214" y="99"/>
+			<point x="308" y="99" type="qcurve" smooth="yes"/>
+			<point x="345" y="99"/>
+			<point x="400" y="151"/>
+			<point x="400" y="200" type="qcurve" smooth="yes"/>
+			<point x="400" y="257"/>
+			<point x="357" y="257" type="qcurve" smooth="yes"/>
+			<point x="292" y="257"/>
+			<point x="233" y="345"/>
+			<point x="233" y="458" type="qcurve" smooth="yes"/>
+			<point x="233" y="609"/>
+			<point x="244" y="675" type="qcurve"/>
+			<point x="224" y="681" type="line"/>
+			<point x="201" y="630"/>
+			<point x="176" y="525"/>
+			<point x="171" y="440" type="qcurve" smooth="yes"/>
+			<point x="166" y="328"/>
+			<point x="157" y="268" type="qcurve" smooth="yes"/>
+			<point x="139" y="159"/>
+			<point x="48" y="158" type="qcurve" smooth="yes"/>
+			<point x="11" y="158"/>
+			<point x="-44" y="104"/>
+			<point x="-44" y="57" type="qcurve" smooth="yes"/>
+			<point x="-44" y="0"/>
+			<point x="-1" y="0" type="qcurve" smooth="yes"/>
+			<point x="57" y="0"/>
+			<point x="151" y="95"/>
+		</contour>
+		<contour>
+			<point x="375" y="1256" type="line"/>
+			<point x="375" y="1256" type="line"/>
+		</contour>
+		<contour>
+			<point x="191" y="-92" type="line"/>
+			<point x="191" y="-92" type="line"/>
+		</contour>
+		<contour>
+			<point x="0" y="0" type="line"/>
+			<point x="0" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="202" y="477" type="line"/>
+			<point x="202" y="477" type="line"/>
+		</contour>
+		<contour>
+			<point x="198" y="-433" type="line"/>
+			<point x="198" y="-433" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

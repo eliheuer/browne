@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="OneDotBelowNS" format="2">
+	<advance width="0"/>
+	<note>
+		OneDotBelowNS
+  </note>
+	<outline>
+		<contour>
+			<point x="-87" y="-112" type="line"/>
+			<point x="-46" y="-144"/>
+			<point x="-4" y="-187" type="qcurve"/>
+			<point x="4" y="-187" type="line"/>
+			<point x="87" y="-127"/>
+			<point x="87" y="-92" type="qcurve" smooth="yes"/>
+			<point x="87" y="-72"/>
+			<point x="46" y="-32"/>
+			<point x="9" y="-8" type="qcurve"/>
+			<point x="0" y="-8" type="line"/>
+			<point x="-12" y="-16"/>
+			<point x="-75" y="-85"/>
+			<point x="-87" y="-104" type="qcurve"/>
+		</contour>
+		<contour>
+			<point x="0" y="-99" type="line"/>
+			<point x="0" y="-99" type="line"/>
+		</contour>
+		<contour>
+			<point x="0" y="-257" type="line"/>
+			<point x="0" y="-257" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

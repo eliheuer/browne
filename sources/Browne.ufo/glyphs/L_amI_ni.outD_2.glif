@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LamIni.outD2" format="2">
+	<advance width="254"/>
+	<note>
+		LamIni.outD2
+  </note>
+	<outline>
+		<contour>
+			<point x="2" y="-38" type="qcurve" smooth="yes"/>
+			<point x="11" y="-38"/>
+			<point x="48" y="-11"/>
+			<point x="68" y="35"/>
+			<point x="98" y="135"/>
+			<point x="114" y="237"/>
+			<point x="120" y="295" type="qcurve" smooth="yes"/>
+			<point x="125" y="353"/>
+			<point x="133" y="507" type="qcurve" smooth="yes"/>
+			<point x="136" y="599"/>
+			<point x="145" y="638" type="qcurve"/>
+			<point x="124" y="646" type="line"/>
+			<point x="55" y="491"/>
+			<point x="53" y="354" type="qcurve" smooth="yes"/>
+			<point x="48" y="187" type="line" smooth="yes"/>
+			<point x="45" y="114"/>
+			<point x="15" y="30"/>
+			<point x="0" y="0" type="qcurve" smooth="yes"/>
+			<point x="-9" y="-20"/>
+			<point x="-9" y="-27" type="qcurve" smooth="yes"/>
+			<point x="-9" y="-38"/>
+		</contour>
+		<contour>
+			<point x="129" y="836" type="line"/>
+			<point x="129" y="836" type="line"/>
+		</contour>
+		<contour>
+			<point x="130" y="773" type="line"/>
+			<point x="130" y="773" type="line"/>
+		</contour>
+		<contour>
+			<point x="157" y="-417" type="line"/>
+			<point x="157" y="-417" type="line"/>
+		</contour>
+		<contour>
+			<point x="254" y="0" type="line"/>
+			<point x="254" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="96" y="-671" type="line"/>
+			<point x="96" y="-671" type="line"/>
+		</contour>
+		<contour>
+			<point x="97" y="424" type="line"/>
+			<point x="97" y="424" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

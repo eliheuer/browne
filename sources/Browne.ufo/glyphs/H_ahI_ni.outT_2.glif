@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="HahIni.outT2" format="2">
+	<advance width="459"/>
+	<note>
+		HahIni.outT2
+  </note>
+	<outline>
+		<contour>
+			<point x="155" y="414" type="qcurve" smooth="yes"/>
+			<point x="109" y="414"/>
+			<point x="35" y="360"/>
+			<point x="1" y="294" type="qcurve"/>
+			<point x="26" y="286" type="line"/>
+			<point x="45" y="323"/>
+			<point x="96" y="323" type="qcurve" smooth="yes"/>
+			<point x="112" y="323"/>
+			<point x="145" y="316"/>
+			<point x="224" y="286" type="qcurve" smooth="yes"/>
+			<point x="282" y="264"/>
+			<point x="305" y="257" type="qcurve"/>
+			<point x="228" y="190" type="line" smooth="yes"/>
+			<point x="134" y="106"/>
+			<point x="33" y="106" type="qcurve" smooth="yes"/>
+			<point x="9" y="106"/>
+			<point x="-29" y="68"/>
+			<point x="-29" y="39" type="qcurve" smooth="yes"/>
+			<point x="-29" y="21"/>
+			<point x="-11" y="0"/>
+			<point x="0" y="0" type="qcurve" smooth="yes"/>
+			<point x="40" y="0"/>
+			<point x="103" y="21"/>
+			<point x="165" y="64"/>
+			<point x="233" y="134" type="qcurve" smooth="yes"/>
+			<point x="375" y="278"/>
+			<point x="416" y="311" type="qcurve"/>
+			<point x="414" y="323" type="line"/>
+			<point x="384" y="327"/>
+			<point x="320" y="358" type="qcurve" smooth="yes"/>
+			<point x="285" y="376"/>
+			<point x="187" y="414"/>
+		</contour>
+		<contour>
+			<point x="243" y="648" type="line"/>
+			<point x="243" y="648" type="line"/>
+		</contour>
+		<contour>
+			<point x="250" y="-296" type="line"/>
+			<point x="250" y="-296" type="line"/>
+		</contour>
+		<contour>
+			<point x="332" y="-91" type="line"/>
+			<point x="332" y="-91" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

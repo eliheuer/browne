@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06BC" format="2">
+	<advance width="861"/>
+	<unicode hex="06BC"/>
+	<note>
+		uni06BC
+  </note>
+	<outline>
+		<component base="NoonxSep"/>
+		<component base="OneDotAboveNS" xOffset="396" yOffset="-709"/>
+		<component base="RingNS" xOffset="299" yOffset="-903"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

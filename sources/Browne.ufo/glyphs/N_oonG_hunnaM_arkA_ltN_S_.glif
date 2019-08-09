@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="NoonGhunnaMarkAltNS" format="2">
+	<advance width="0"/>
+	<note>
+		NoonGhunnaMarkAltNS
+  </note>
+	<outline>
+		<component base="NoonGhunnaMarkNS"/>
+	</outline>
+</glyph>

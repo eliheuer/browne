@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AlefInferiorYB" format="2">
+	<advance width="0"/>
+	<note>
+		AlefInferiorYB
+  </note>
+	<outline>
+		<component base="AlefInferiorNS"/>
+	</outline>
+</glyph>

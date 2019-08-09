@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Alef" format="2">
+	<advance width="330"/>
+	<unicode hex="0627"/>
+	<note>
+		Alef
+  </note>
+	<outline>
+		<component base="AlefSep"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

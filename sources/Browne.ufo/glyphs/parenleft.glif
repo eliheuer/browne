@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenleft" format="2">
+	<advance width="380"/>
+	<unicode hex="0028"/>
+	<note>
+		parenleft
+  </note>
+	<outline>
+		<contour>
+			<point x="147" y="340" type="qcurve" smooth="yes"/>
+			<point x="147" y="402"/>
+			<point x="164" y="542"/>
+			<point x="212" y="679"/>
+			<point x="299" y="803"/>
+			<point x="369" y="848" type="qcurve"/>
+			<point x="352" y="875" type="line"/>
+			<point x="279" y="835"/>
+			<point x="164" y="716"/>
+			<point x="83" y="574"/>
+			<point x="41" y="415"/>
+			<point x="41" y="333" type="qcurve" smooth="yes"/>
+			<point x="41" y="236"/>
+			<point x="83" y="68"/>
+			<point x="163" y="-71"/>
+			<point x="277" y="-180"/>
+			<point x="348" y="-218" type="qcurve"/>
+			<point x="366" y="-191" type="line"/>
+			<point x="295" y="-146"/>
+			<point x="209" y="-15"/>
+			<point x="163" y="131"/>
+			<point x="147" y="279"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

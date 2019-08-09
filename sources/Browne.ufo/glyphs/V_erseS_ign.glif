@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="VerseSign" format="2">
+	<advance width="1583"/>
+	<unicode hex="060E"/>
+	<note>
+		VerseSign
+  </note>
+	<outline>
+		<contour>
+			<point x="509" y="104" type="qcurve"/>
+			<point x="536" y="168"/>
+			<point x="536" y="222" type="qcurve" smooth="yes"/>
+			<point x="536" y="288"/>
+			<point x="455" y="373"/>
+			<point x="381" y="373" type="qcurve" smooth="yes"/>
+			<point x="301" y="373"/>
+			<point x="114" y="208"/>
+			<point x="114" y="119" type="qcurve" smooth="yes"/>
+			<point x="114" y="55"/>
+			<point x="266" y="0"/>
+			<point x="411" y="0" type="qcurve" smooth="yes"/>
+			<point x="730" y="0"/>
+			<point x="1246" y="91"/>
+			<point x="1447" y="185" type="qcurve"/>
+			<point x="1461" y="213"/>
+			<point x="1476" y="260"/>
+			<point x="1478" y="278" type="qcurve"/>
+			<point x="1468" y="280" type="line"/>
+			<point x="1286" y="205"/>
+			<point x="802" y="115"/>
+		</contour>
+		<contour>
+			<point x="485" y="104" type="line"/>
+			<point x="467" y="104" type="line" smooth="yes"/>
+			<point x="370" y="104"/>
+			<point x="256" y="117"/>
+			<point x="182" y="146"/>
+			<point x="182" y="185" type="qcurve" smooth="yes"/>
+			<point x="182" y="226"/>
+			<point x="262" y="279"/>
+			<point x="311" y="279" type="qcurve" smooth="yes"/>
+			<point x="394" y="279"/>
+			<point x="485" y="191"/>
+			<point x="485" y="110" type="qcurve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-08-09 22:57:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>
